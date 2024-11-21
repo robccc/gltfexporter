@@ -203,7 +203,7 @@ function init() {
         })(file);
         reader.readAsText(file);
     });
-})()};
+
 
 function inject_script(url, callback) {
   var head = document.getElementsByTagName("head")[0];
