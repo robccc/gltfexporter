@@ -157,7 +157,7 @@ function init() {
   }
 }
 
-	var characterArea_hook = ".headerMenu-container";
+	var characterArea_hook = ".leftWrap-0-2-13";
 	var menu_style = { "margin-left": "20px", "width": "80px" };
 	
     var character_area, stl_base, sjson, ljson, labeljson;
